@@ -5,7 +5,7 @@ body{
 #nav{
     width: 150px;
     float: left;
-    margin-top: l 12px;
+    margin-top: 12px;
     margin-right: 18px;
 }
 
@@ -39,7 +39,7 @@ body{
     display: block;
     padding: 3px 0px 3px 3px;
     background-color: #628794;
-        color: #000000;
+        color: #ffffff;
 }
 
 #nav ul ul {
