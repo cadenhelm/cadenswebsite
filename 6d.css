@@ -6,7 +6,7 @@ body{
     width: 150px;
     float: left;
     margin-top: 12px;
-    margin-right;18px;
+    margin-right: 18px;
 }
 
 #content{
@@ -28,6 +28,9 @@ body{
     margin: 12px 0px 0px 0px;
     padding: 0px;
 }
+
+#nav li{
+    border-bottom: 1px solid #ffffff;}
 
 #nav li a:link, #nav li a:visited {
     font-size: 10pt;
