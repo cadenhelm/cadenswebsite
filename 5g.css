@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+}
+
+div{
+    width: 250px;
+    height: 100px;
+    margin: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+div#d1{
+    float: left;
+    background-color: red;
+    border: 5px solid black;
+}
+
+div#d2{
+    float: left;
+    background-color: green;
+    border: 9px solid yellow;
+}
+
+div#d3{
+    background-color: blue;
+    float: left;
+    border: 3px solid purple;
+}
+
+div#4{
+    border: 5px inset silver;
+    background-color: purple;
+    float: left;
+}
