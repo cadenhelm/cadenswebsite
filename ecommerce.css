@@ -4,7 +4,6 @@ body {
     background-color: red;
 }
 
-/* Banner styling */
 .banner {
     background-color: white;
     color: black;
@@ -15,7 +14,6 @@ body {
     top: 0;
 }
 
-/* Gallery layout */
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -30,8 +28,38 @@ body {
     background-color: white;
 }
 
-/* Hover effect (external idea style) */
 .gallery img:hover {
     transform: scale(1.1);
     transition: 0.3s;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 30px;
+}
+
+.contact-info {
+    width: 45%;
+    text-align: left;
+    font-size: 18px;
+}
+
+.contact-map {
+    width: 50%;
+}
+
+.top-button {
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.top-button:hover {
+    background-color: gray;
 }
