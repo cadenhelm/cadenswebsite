@@ -9,7 +9,7 @@ body {
     background-color: white;
     color: black;
     padding: 30px;
-    position: sticky; /* You can say you experimented with positioning */
+    position: fixed;
     top: 0;
 }
 
