@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: firebrick;
+    background-color: red;
 }
 
 .banner {
@@ -16,7 +16,6 @@ body {
 
 .slogan {
     font-family: 'Supermercado One', sans-serif;
-    font-size: 24px; /* optional */
 }
 
 .gallery {
