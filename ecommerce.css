@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: red;
+    background-color: firebrick;
 }
 
 .banner {
     background-color: white;
     color: black;
-    position: absolute;
+    position: static;
     width: 100%;
     top: 0;
     left: 0;
@@ -16,6 +16,7 @@ body {
 
 .slogan {
     font-family: 'Supermercado One', sans-serif;
+    font-size: 40px;
 }
 
 .gallery {
@@ -67,8 +68,4 @@ body {
 
 .top-button:hover {
     background-color: gray;
-}
-
-.content {
-    margin-top: 430px; /* adjust based on banner height */
 }
