@@ -6,7 +6,7 @@ body {
 
 /* Banner styling */
 .banner {
-    background-color: black;
+    background-color: white;
     color: white;
     padding: 30px;
     position: sticky; /* You can say you experimented with positioning */
