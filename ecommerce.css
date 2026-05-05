@@ -7,7 +7,8 @@ body {
 .banner {
     background-color: white;
     color: black;
-    position: fixed;
+    position: absolute;
+    padding: 30px;
     width: 100%;
     float: center;
     top: 0;
