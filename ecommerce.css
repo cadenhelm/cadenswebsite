@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
     text-align: center;
-    background-color: red;
+    background-color: firebrick;
 }
 
 .banner {
@@ -11,7 +11,7 @@ body {
     padding: 30px;
     width: 100%;
     top: 0;
-    left: 0;
+    left: 30;
     border: black, 10px;
 }
 
@@ -66,5 +66,5 @@ body {
 }
 
 .content {
-    margin-top: 500px; /* adjust based on banner height */
+    margin-top: 450px; /* adjust based on banner height */
 }
