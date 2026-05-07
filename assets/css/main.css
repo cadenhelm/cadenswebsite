@@ -5297,7 +5297,7 @@ body.tp-magic-cursor #magic-cursor {
 
 .tp-header-14-main {
   position: relative;
-  z-index: 999;
+  z-index: 1;
 }
 .tp-header-14-wrapper {
   padding: 18px 0;
